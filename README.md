@@ -12,4 +12,4 @@ Welcome to my GitHub! I am a passionate developer from Trujillo, Peru, dedicated
 **Languages:** Java, TypeScript, JavaScript, Python, SQL  
 **Frameworks & Tools:** Spring Boot, React Native, HTML/CSS, MySQL, Git, Figma  
 
-📫 **Let's connect:** [Find me on LinkedIn](linkedin.com/in/fabrizio-jesus-teodor-celis/)
+📫 **Let's connect:** [Find me on LinkedIn](https://www.linkedin.com/in/fabrizio-jesus-teodor-celis/)
